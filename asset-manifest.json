@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clone_coding/kakao-search/static/css/main.d5616bf1.css",
+    "main.js": "/clone_coding/kakao-search/static/js/main.739dc482.js",
+    "static/js/787.7a2114b7.chunk.js": "/clone_coding/kakao-search/static/js/787.7a2114b7.chunk.js",
+    "index.html": "/clone_coding/kakao-search/index.html",
+    "main.d5616bf1.css.map": "/clone_coding/kakao-search/static/css/main.d5616bf1.css.map",
+    "main.739dc482.js.map": "/clone_coding/kakao-search/static/js/main.739dc482.js.map",
+    "787.7a2114b7.chunk.js.map": "/clone_coding/kakao-search/static/js/787.7a2114b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5616bf1.css",
+    "static/js/main.739dc482.js"
+  ]
+}
